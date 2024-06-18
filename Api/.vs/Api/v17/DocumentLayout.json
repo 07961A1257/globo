@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Chaitanya\\Learnings\\globo\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F02BBB-92EA-40D7-9C4A-21B52EEA3E60}|Api.csproj|d:\\chaitanya\\learnings\\globo\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F02BBB-92EA-40D7-9C4A-21B52EEA3E60}|Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F02BBB-92EA-40D7-9C4A-21B52EEA3E60}|Api.csproj|d:\\chaitanya\\learnings\\globo\\api\\dtos\\housedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F02BBB-92EA-40D7-9C4A-21B52EEA3E60}|Api.csproj|solutionrelative:dtos\\housedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F02BBB-92EA-40D7-9C4A-21B52EEA3E60}|Api.csproj|d:\\chaitanya\\learnings\\globo\\api\\data\\houserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F02BBB-92EA-40D7-9C4A-21B52EEA3E60}|Api.csproj|solutionrelative:data\\houserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F02BBB-92EA-40D7-9C4A-21B52EEA3E60}|Api.csproj|d:\\chaitanya\\learnings\\globo\\api\\data\\ihouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F02BBB-92EA-40D7-9C4A-21B52EEA3E60}|Api.csproj|solutionrelative:data\\ihouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HouseDetailDto.cs",
+              "DocumentMoniker": "D:\\Chaitanya\\Learnings\\globo\\Api\\Dtos\\HouseDetailDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\HouseDetailDto.cs",
+              "ToolTip": "D:\\Chaitanya\\Learnings\\globo\\Api\\Dtos\\HouseDetailDto.cs",
+              "RelativeToolTip": "Dtos\\HouseDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:33:40.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHouseRepository.cs",
+              "DocumentMoniker": "D:\\Chaitanya\\Learnings\\globo\\Api\\Data\\IHouseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IHouseRepository.cs",
+              "ToolTip": "D:\\Chaitanya\\Learnings\\globo\\Api\\Data\\IHouseRepository.cs",
+              "RelativeToolTip": "Data\\IHouseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:25:13.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HouseRepository.cs",
+              "DocumentMoniker": "D:\\Chaitanya\\Learnings\\globo\\Api\\Data\\HouseRepository.cs",
+              "RelativeDocumentMoniker": "Data\\HouseRepository.cs",
+              "ToolTip": "D:\\Chaitanya\\Learnings\\globo\\Api\\Data\\HouseRepository.cs",
+              "RelativeToolTip": "Data\\HouseRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAzwDAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:47:02.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Chaitanya\\Learnings\\globo\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Chaitanya\\Learnings\\globo\\Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAzwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:46:54.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
